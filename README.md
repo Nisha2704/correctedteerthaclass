@@ -1,1 +1,2 @@
-# correctedteerthaclass
+# synchronousBallMovement
+Ball moving synchronously
